@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943114446868",
+    "project_id": "thegreenguardian-9837c",
+    "storage_bucket": "thegreenguardian-9837c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943114446868:android:6342041291cfe62dc35f01",
+        "android_client_info": {
+          "package_name": "com.example.thegreenguardian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943114446868-hc2brkre6un8lrcg6t8945d6g05dvg1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHaw3s4azj6abU_vqJ0Bdm7XjrSStOfC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943114446868-hc2brkre6un8lrcg6t8945d6g05dvg1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
